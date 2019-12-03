@@ -1,0 +1,3 @@
+Moyenne_Ecart.m:	Extraction de véhicules en mouvement à l'aide de "moyennes et écarts types".
+Sigma_Delta_test.m:	Utiliseer la méthode "sigma-delta" pour extraire les véhicules en mouvement et pour sortir le flux vidéo de résultat.
+FlowOptic.m:		Flux optique.
